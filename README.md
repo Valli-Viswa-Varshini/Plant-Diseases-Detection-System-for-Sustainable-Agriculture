@@ -1,1 +1,1 @@
-# Plant-Diseases-Detection-System-AI-Intern
+# Plant-Diseases-Detection-System-for-Sustainable-Environment
